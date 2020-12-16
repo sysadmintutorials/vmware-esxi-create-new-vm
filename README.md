@@ -10,7 +10,7 @@
 
 This script automates the install of virtual machines within VMware ESXi.
 
-It will prompt for the ip or DNS address of your ESXi host and then ask for your root user credentials.
+It will prompt for the IP or DNS address of your ESXi host and then ask for your root user credentials.
 
 Once a successful connection is established, you will then need to press 1, 2 or 3 in order to select the operating system you intend to install: Windows Server 2019, Windows Server 2016 or Windows Server 2012.
 
