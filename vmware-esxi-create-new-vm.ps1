@@ -3,6 +3,7 @@
     Script Created by: David Rodriguez
     Blog:                   www.sysadmintutorials.com
     Twitter:                @systutorials
+    Youtube:                https://www.youtube.com/user/sysadmintutorials
     ===========================================================================
     .DESCRIPTION
     This script will automate the creation of virtual machine within ESXi
