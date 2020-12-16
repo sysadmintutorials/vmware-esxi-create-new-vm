@@ -1,4 +1,12 @@
-
+<#
+    ===========================================================================
+    Script Created by: David Rodriguez
+    Blog:                   www.sysadmintutorials.com
+    Twitter:                @systutorials
+    ===========================================================================
+    .DESCRIPTION
+    This script will automate the creation of virtual machine within ESXi
+#>
 
 $vmhostipaddress = Read-Host "Enter the IP of your VMware ESXi Host"
 $vmhostcreds = Get-Credential -Message "Please enter the root username and password"
